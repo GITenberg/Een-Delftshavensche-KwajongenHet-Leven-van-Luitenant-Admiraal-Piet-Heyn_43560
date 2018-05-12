@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3977
     wikipedia: http://nl.wikipedia.org/wiki/Pieter_Louwerse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43560#Een-Delftshavensche-KwajongenHet-Leven-van-Luitenant-Admiraal-Piet-Heyn
 gutenberg_issued: '2013-08-26'
 gutenberg_type: Text
 identifiers:
